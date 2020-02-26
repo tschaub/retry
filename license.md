@@ -1,4 +1,4 @@
-The retry module is distributed under the MIT license. Find the full source here: http://tschaub.mit-license.org/
+The retry package is distributed under the MIT license. Find the full source here: http://tschaub.mit-license.org/
 
 Copyright Tim Schaub.
 
